@@ -1,0 +1,11 @@
+﻿Metric,Value
+Text files loaded,29.0
+Training tokens,940515.0
+Test tokens,235142.0
+Unique training words,39520.0
+Autocomplete test prefixes,10.0
+Autocorrect test words,25.0
+Bigram top-1 accuracy,0.1066
+Trigram top-1 accuracy,0.0756
+SpellChecker accuracy,0.96
+Custom correction accuracy,0.84

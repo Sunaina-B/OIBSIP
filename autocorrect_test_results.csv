@@ -1,0 +1,26 @@
+﻿Misspelled,Expected,SpellChecker Prediction,SpellChecker Correct,Custom Prediction,Custom Correct
+teh,the,the,True,th,False
+recieve,receive,receive,True,relieve,False
+accomodate,accommodate,accommodate,True,accommodate,True
+seperate,separate,separate,True,separate,True
+definately,definitely,definitely,True,definitely,True
+goverment,government,government,True,government,True
+enviroment,environment,environment,True,environment,True
+occured,occurred,occurred,True,occurred,True
+untill,until,until,True,until,True
+begining,beginning,beginning,True,beginning,True
+adress,address,dress,False,address,True
+wierd,weird,weird,True,wield,False
+thier,their,their,True,tier,False
+freind,friend,friend,True,friend,True
+becuase,because,because,True,because,True
+tommorow,tomorrow,tomorrow,True,tomorrow,True
+langauge,language,language,True,language,True
+acheive,achieve,achieve,True,achieve,True
+responsable,responsible,responsible,True,responsible,True
+succesful,successful,successful,True,successful,True
+occassion,occasion,occasion,True,occasion,True
+neccessary,necessary,necessary,True,necessary,True
+beleive,believe,believe,True,believe,True
+writting,writing,writing,True,writing,True
+concious,conscious,conscious,True,conscious,True
